@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Hey there! I'm Ishani, your friendly neighborhood coder. I'm a professional at Cognizant, full-time geek, and part-time coffee enthusiast. My projects are my playground, and I promise they're more fun than a day at the amusement park!<br><br>- 🔭 <br>- 🎧 In my free time I groove to the best<br>- ☕️ Fun fact I believe in coffee as the ultimate debugging tool.</p>
+<p align="left">Hey there! I'm Ishani, your friendly neighborhood coder. I'm a professional at Cognizant, full-time geek, and part-time coffee enthusiast. My projects are my playground, and I promise they're more fun than a day at the amusement park!<br><br>- 🎧 In my free time I groove to the best<br>- ☕️ Fun fact I believe in coffee as the ultimate debugging tool.</p>
 
 ###
 
